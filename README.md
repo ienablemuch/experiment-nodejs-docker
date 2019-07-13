@@ -1,0 +1,1 @@
+Simplest docker-based nodejs. Steps followed from: https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
